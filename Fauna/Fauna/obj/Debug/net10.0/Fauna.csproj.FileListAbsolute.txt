@@ -1,0 +1,14 @@
+C:\Users\g.balanchivadze\Desktop\Fauna\Fauna\bin\Debug\net10.0\Fauna.exe
+C:\Users\g.balanchivadze\Desktop\Fauna\Fauna\bin\Debug\net10.0\Fauna.deps.json
+C:\Users\g.balanchivadze\Desktop\Fauna\Fauna\bin\Debug\net10.0\Fauna.runtimeconfig.json
+C:\Users\g.balanchivadze\Desktop\Fauna\Fauna\bin\Debug\net10.0\Fauna.dll
+C:\Users\g.balanchivadze\Desktop\Fauna\Fauna\bin\Debug\net10.0\Fauna.pdb
+C:\Users\g.balanchivadze\Desktop\Fauna\Fauna\obj\Debug\net10.0\Fauna.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\g.balanchivadze\Desktop\Fauna\Fauna\obj\Debug\net10.0\Fauna.AssemblyInfoInputs.cache
+C:\Users\g.balanchivadze\Desktop\Fauna\Fauna\obj\Debug\net10.0\Fauna.AssemblyInfo.cs
+C:\Users\g.balanchivadze\Desktop\Fauna\Fauna\obj\Debug\net10.0\Fauna.csproj.CoreCompileInputs.cache
+C:\Users\g.balanchivadze\Desktop\Fauna\Fauna\obj\Debug\net10.0\Fauna.dll
+C:\Users\g.balanchivadze\Desktop\Fauna\Fauna\obj\Debug\net10.0\refint\Fauna.dll
+C:\Users\g.balanchivadze\Desktop\Fauna\Fauna\obj\Debug\net10.0\Fauna.pdb
+C:\Users\g.balanchivadze\Desktop\Fauna\Fauna\obj\Debug\net10.0\Fauna.genruntimeconfig.cache
+C:\Users\g.balanchivadze\Desktop\Fauna\Fauna\obj\Debug\net10.0\ref\Fauna.dll
